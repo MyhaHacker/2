@@ -1,0 +1,8 @@
+key = input()
+user = input()
+while key != user :
+    print("Пароль неверный")
+else: 
+  print("Пароль верный, доступ разрешен")
+  while 2 == 2 :
+      print("SPAAAAAAAAAAAM")
